@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: 'Caudex';
+    background-color: black;
+    color: white;
+}
+img {
+	width: 450px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
